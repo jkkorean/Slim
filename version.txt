@@ -1,1 +1,1 @@
-Slim-4.4.2.build.5.2-WEEKLY
+Slim-4.4.2.build.5.4-WEEKLY

@@ -90,11 +90,14 @@
     <string name="quick_settings_reboot">재부팅</string>
 	<string name="quick_settings_theme_switch_dark">어두운 테마</string>
     <string name="quick_settings_theme_switch_light">밝은 테마</string>
+	<string name="quick_settings_quick_record_deleted">삭제됨...</string>
     <string name="quick_settings_quick_record_nofile">길게 누르기</string>
-    <string name="quick_settings_quick_record_def">빠른 녹화</string>
-    <string name="quick_settings_quick_record_rec">녹화중...</string>
+    <string name="quick_settings_quick_record_def">빠른 녹음</string>
+    <string name="quick_settings_quick_record_rec">녹음중...</string>
     <string name="quick_settings_quick_record_save">저장됨</string>
     <string name="quick_settings_quick_record_play">재생중...</string>
+	<string name="quick_settings_quick_record_dialog_cancel">닫기</string>
+    <string name="quick_settings_quick_record_dialog">"길게 눌러서 녹음 파일 삭제"</string>
     <string name="quick_settings_custom_toggle">사용자 지정</string>
     <string name="quick_settings_contact_toggle">연락처</string>
     <string name="quick_settings_reminder">미리 알림</string>
