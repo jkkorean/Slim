@@ -90,6 +90,8 @@
     <string name="notification_multiple_title_privacy_mode">새로운 메세지</string>
     <string name="notification_multiple_text_privacy_mode">%1$s개 읽지않은 메세지</string>
     <string name="notification_ticker_privacy_mode">새로운 메시지가 수신되었습니다</string>
+	<string name="pref_title_notification_heads_up_mode_enabled">헤드-업 모드</string>
+    <string name="pref_summary_notification_heads_up_mode_enabled">헤드-업 알림 메시지를 표시합니다.</string>
     <string name="msg_sig_title">서명</string>
     <string name="msg_sig_summary">메시지에 대한 사용자 서명을 설정</string>
     <string name="msg_sig_enter_text">서명 텍스트 입력</string>

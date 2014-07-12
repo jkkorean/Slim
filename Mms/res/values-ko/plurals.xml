@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="template_confirm_delete_conversation">
+        <item quantity="other">%1$s개 템플릿이 삭제됩니다.</item>
+        <item quantity="one">1개 템플릿이 삭제됩니다.</item>
+    </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">대화 %1$s개가 삭제됩니다.</item>
         <item quantity="one">대화 1개가 삭제됩니다.</item>

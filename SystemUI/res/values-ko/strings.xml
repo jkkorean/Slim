@@ -122,6 +122,9 @@
     <string name="smart_pulldown_disabled">스마트 풀다운을 사용하지 않습니다</string>
 	<string name="accessibility_ime_navigation_left">왼쪽 커서</string>
     <string name="accessibility_ime_navigation_right">오른쪽 커서</string>
+	<string name="status_bar_notification_heads_up_enable_title">헤드-업 사용</string>
+    <string name="status_bar_notification_heads_up_disable_title">헤드-업 사용안함</string>
+    <string name="heads_up_snooze_message">헤드-업을 %d분 사용할수 없습니다.</string>
     <string name="app_label">시스템 UI</string>
     <string name="status_bar_clear_all_button">지우기</string>
     <string name="status_bar_recent_remove_item_title">목록에서 삭제</string>
